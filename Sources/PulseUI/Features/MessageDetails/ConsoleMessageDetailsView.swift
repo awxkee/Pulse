@@ -5,7 +5,7 @@
 #if !PULSE_STANDALONE_APP
 
 import SwiftUI
-import Pulse
+import PulseNetwork
 
 @available(iOS 15, visionOS 1.0, *)
 struct ConsoleMessageDetailsView: View {

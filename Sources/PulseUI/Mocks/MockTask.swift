@@ -3,7 +3,7 @@
 // Copyright (c) 2020-2024 Alexander Grebenyuk (github.com/kean).
 
 import Foundation
-import Pulse
+import PulseNetwork
 
 #if DEBUG || PULSE_MOCK_INCLUDED
 

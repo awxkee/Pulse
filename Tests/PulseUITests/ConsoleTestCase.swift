@@ -4,7 +4,7 @@
 
 import XCTest
 import Combine
-@testable import Pulse
+@testable import PulseNetwork
 @testable import PulseUI
 
 class ConsoleTestCase: XCTestCase {

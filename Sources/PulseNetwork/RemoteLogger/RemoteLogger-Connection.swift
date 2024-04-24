@@ -8,7 +8,7 @@ import CryptoKit
 import OSLog
 
 #if PULSE_STANDALONE_APP
-import Pulse
+import PulseNetwork
 #endif
 
 protocol RemoteLoggerConnectionDelegate: AnyObject {

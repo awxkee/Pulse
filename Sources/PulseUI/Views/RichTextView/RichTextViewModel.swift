@@ -5,7 +5,7 @@
 #if os(iOS) || os(macOS) || os(visionOS)
 
 import SwiftUI
-import Pulse
+import PulseNetwork
 import Combine
 
 final class RichTextViewModel: ObservableObject {

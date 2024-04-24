@@ -8,7 +8,7 @@
 
 import Foundation
 import SwiftUI
-import Pulse
+import PulseNetwork
 
 struct DecodingErrors_Previews: PreviewProvider {
     static var previews: some View {

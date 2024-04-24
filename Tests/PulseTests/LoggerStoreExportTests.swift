@@ -6,7 +6,7 @@ import XCTest
 import Foundation
 import CoreData
 import Combine
-@testable import Pulse
+@testable import PulseNetwork
 
 final class LoggerStoreExportTests: LoggerStoreBaseTests {
     var targetURL: URL!

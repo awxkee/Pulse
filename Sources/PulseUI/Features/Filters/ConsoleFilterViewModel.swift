@@ -3,7 +3,7 @@
 // Copyright (c) 2020-2024 Alexander Grebenyuk (github.com/kean).
 
 import CoreData
-import Pulse
+import PulseNetwork
 import Combine
 import SwiftUI
 

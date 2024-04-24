@@ -3,7 +3,7 @@
 // Copyright (c) 2020-2024 Alexander Grebenyuk (github.com/kean).
 
 import SwiftUI
-import Pulse
+import PulseNetwork
 
 struct StoreDetailsView: View {
     @StateObject private var viewModel = StoreDetailsViewModel()

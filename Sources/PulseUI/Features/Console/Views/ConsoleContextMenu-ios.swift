@@ -6,7 +6,7 @@
 
 import SwiftUI
 import CoreData
-import Pulse
+import PulseNetwork
 import Combine
 
 @available(iOS 15, visionOS 1.0, *)

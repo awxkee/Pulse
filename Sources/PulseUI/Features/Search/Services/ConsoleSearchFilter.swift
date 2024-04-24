@@ -5,7 +5,7 @@
 #if os(iOS) || os(macOS) || os(visionOS)
 
 import Foundation
-import Pulse
+import PulseNetwork
 
 protocol ConsoleSearchFilterProtocol {
     associatedtype Value: CustomStringConvertible

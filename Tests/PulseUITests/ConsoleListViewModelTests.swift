@@ -5,7 +5,7 @@
 import XCTest
 import Combine
 import CoreData
-@testable import Pulse
+@testable import PulseNetwork
 @testable import PulseUI
 
 final class ConsoleListViewModelTests: ConsoleTestCase {

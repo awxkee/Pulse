@@ -3,7 +3,7 @@
 // Copyright (c) 2020-2024 Alexander Grebenyuk (github.com/kean).
 
 import Foundation
-@testable import Pulse
+@testable import PulseNetwork
 
 struct TemporaryDirectory {
     let url: URL

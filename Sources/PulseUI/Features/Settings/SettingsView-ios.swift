@@ -5,7 +5,7 @@
 #if os(iOS) || os(visionOS)
 
 import SwiftUI
-import Pulse
+import PulseNetwork
 import UniformTypeIdentifiers
 
 @available(iOS 15, visionOS 1.0, *)

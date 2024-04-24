@@ -5,7 +5,7 @@
 #if os(macOS)
 
 import SwiftUI
-import Pulse
+import PulseNetwork
 
 struct SettingsView: View {
     @State private var isPresentingShareStoreView = false

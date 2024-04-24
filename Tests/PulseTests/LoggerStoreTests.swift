@@ -6,7 +6,7 @@ import XCTest
 import Foundation
 import CoreData
 import Combine
-@testable import Pulse
+@testable import PulseNetwork
 
 final class LoggerStoreTests: LoggerStoreBaseTests {
     // MARK: - Init

@@ -5,7 +5,7 @@
 import CoreData
 import XCTest
 import Combine
-@testable import Pulse
+@testable import PulseNetwork
 
 final class NetworkLoggerTests: XCTestCase {
     let directory = TemporaryDirectory()

@@ -3,7 +3,7 @@
 // Copyright (c) 2020-2024 Alexander Grebenyuk (github.com/kean).
 
 import SwiftUI
-import Pulse
+import PulseNetwork
 
 @available(iOS 15, visionOS 1.0, *)
 struct ConsoleSearchListSelectionView<Data: RandomAccessCollection, ID: Hashable, Label: View>: View {

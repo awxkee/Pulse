@@ -5,7 +5,7 @@
 import Foundation
 import SwiftUI
 import Combine
-import Pulse
+import PulseNetwork
 import Network
 
 @available(iOS 15, visionOS 1.0, *)

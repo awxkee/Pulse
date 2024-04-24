@@ -6,7 +6,7 @@
 
 import Foundation
 import UIKit
-import Pulse
+import PulseNetwork
 import SwiftUI
 
 /// Shows the console inside the navigation controller.

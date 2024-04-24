@@ -3,10 +3,9 @@
 // Copyright (c) 2020-2024 Alexander Grebenyuk (github.com/kean).
 
 import Foundation
-import Pulse
+import PulseNetwork
 import CoreData
 import SwiftUI
-import Pulse
 
 final class ShareStoreTask {
     private var isCancelled = false

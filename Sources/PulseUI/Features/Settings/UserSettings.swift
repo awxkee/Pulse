@@ -3,7 +3,7 @@
 // Copyright (c) 2020-2024 Alexander Grebenyuk (github.com/kean).
 
 import SwiftUI
-import Pulse
+import PulseNetwork
 import Combine
 
 /// Allows you to control Pulse appearance and other settings programmatically.

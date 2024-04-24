@@ -4,7 +4,7 @@
 
 import SwiftUI
 import Network
-import Pulse
+import PulseNetwork
 
 @available(iOS 15, visionOS 1.0, *)
 struct RemoteLoggerSelectedDeviceView: View {

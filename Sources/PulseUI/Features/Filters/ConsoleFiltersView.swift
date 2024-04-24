@@ -3,7 +3,7 @@
 // Copyright (c) 2020-2024 Alexander Grebenyuk (github.com/kean).
 
 import SwiftUI
-import Pulse
+import PulseNetwork
 import Combine
 
 @available(iOS 15, macOS 13, visionOS 1.0, *)

@@ -6,7 +6,7 @@
 
 import XCTest
 import Combine
-@testable import Pulse
+@testable import PulseNetwork
 @testable import PulseUI
 
 final class ConsoleSearchOccurrenceTests: XCTestCase {

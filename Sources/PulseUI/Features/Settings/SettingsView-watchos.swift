@@ -5,7 +5,7 @@
 #if os(watchOS)
 
 import SwiftUI
-import Pulse
+import PulseNetwork
 
 public struct SettingsView: View {
     private let store: LoggerStore

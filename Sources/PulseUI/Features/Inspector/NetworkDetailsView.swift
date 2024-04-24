@@ -3,7 +3,7 @@
 // Copyright (c) 2020-2024 Alexander Grebenyuk (github.com/kean).
 
 import SwiftUI
-import Pulse
+import PulseNetwork
 
 struct NetworkDetailsView: View {
     private var title: String

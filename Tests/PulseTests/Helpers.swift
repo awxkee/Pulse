@@ -5,7 +5,7 @@
 import XCTest
 import Foundation
 import CoreData
-@testable import Pulse
+@testable import PulseNetwork
 
 struct TemporaryDirectory {
     let url: URL

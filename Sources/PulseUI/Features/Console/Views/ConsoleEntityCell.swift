@@ -4,7 +4,7 @@
 
 import Foundation
 import SwiftUI
-import Pulse
+import PulseNetwork
 import CoreData
 
 @available(iOS 15, macOS 13, visionOS 1.0, *)

@@ -4,7 +4,7 @@
 
 import Foundation
 import SwiftUI
-import Pulse
+import PulseNetwork
 
 struct StatusLabelViewModel {
     let systemImage: String

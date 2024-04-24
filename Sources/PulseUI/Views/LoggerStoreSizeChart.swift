@@ -3,7 +3,7 @@
 // Copyright (c) 2020-2024 Alexander Grebenyuk (github.com/kean).
 
 import SwiftUI
-import Pulse
+import PulseNetwork
 import Charts
 
 @available(iOS 16.0, tvOS 16.0, macOS 13.0, watchOS 9.0, visionOS 1.0, *)

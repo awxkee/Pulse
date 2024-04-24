@@ -5,7 +5,7 @@
 import Foundation
 import CoreData
 import Combine
-import Pulse
+import PulseNetwork
 
 /// Keeps track of hosts, paths, etc.
 final class LoggerStoreIndex: ObservableObject {

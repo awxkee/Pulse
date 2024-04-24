@@ -3,7 +3,7 @@
 // Copyright (c) 2020-2023 Alexander Grebenyuk (github.com/kean).
 
 import XCTest
-import Pulse
+import PulseNetwork
 import PulseUI
 
 final class TextRendererTestsTests: XCTestCase {

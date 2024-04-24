@@ -6,7 +6,7 @@
 
 import SwiftUI
 import CoreData
-import Pulse
+import PulseNetwork
 import Combine
 
 @MainActor final class ShareStoreViewModel: ObservableObject {

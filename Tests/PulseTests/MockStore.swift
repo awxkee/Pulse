@@ -5,7 +5,7 @@
 import Foundation
 import CoreData
 import XCTest
-@testable import Pulse
+@testable import PulseNetwork
 
 private struct Logger {
     let label: String

@@ -5,7 +5,7 @@
 #if os(iOS) || os(macOS) || os(visionOS)
 
 import SwiftUI
-import Pulse
+import PulseNetwork
 
 struct ConsoleSearchTimePeriodCell: View {
     @Binding var selection: ConsoleFilers.Dates

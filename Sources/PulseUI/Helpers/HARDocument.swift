@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import Pulse
+import PulseNetwork
 
 fileprivate enum HARDateFormatter {
     static var formatter: ISO8601DateFormatter = {

@@ -45,7 +45,7 @@ struct ShareView: UIViewControllerRepresentable {
 
 #if os(macOS)
 import AppKit
-import Pulse
+import PulseNetwork
 
 struct ShareView: View {
     let items: ShareItems

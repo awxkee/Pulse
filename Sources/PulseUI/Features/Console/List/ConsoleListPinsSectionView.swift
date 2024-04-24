@@ -5,7 +5,7 @@
 #if os(iOS) || os(visionOS)
 
 import CoreData
-import Pulse
+import PulseNetwork
 import Combine
 import SwiftUI
 

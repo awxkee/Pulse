@@ -5,7 +5,7 @@
 import Foundation
 import Network
 #if PULSE_STANDALONE_APP
-import Pulse
+import PulseNetwork
 #endif
 
 extension RemoteLogger {

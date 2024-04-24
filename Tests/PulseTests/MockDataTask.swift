@@ -3,7 +3,7 @@
 // Copyright (c) 2020-2023 Alexander Grebenyuk (github.com/kean).
 
 import Foundation
-import Pulse
+import PulseNetwork
 
 struct MockDataTask {
     let request: URLRequest

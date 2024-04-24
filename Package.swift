@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Pulse",
+    name: "PulseNetwork",
     platforms: [
         .iOS(.v14),
         .tvOS(.v15),
@@ -11,13 +11,13 @@ let package = Package(
         .watchOS(.v8)
     ],
     products: [
-        .library(name: "Pulse", targets: ["Pulse"]),
+        .library(name: "PulseNetwork", targets: ["PulseNetwork"]),
         .library(name: "PulseUI", targets: ["PulseUI"])
     ],
     targets: [
-        .target(name: "Pulse"),
-        .target(name: "PulseUI", dependencies: ["Pulse"]),
-        .testTarget(name: "PulseTests", dependencies: ["Pulse"]),
+        .target(name: "PulseNetwork"),
+        .target(name: "PulseUI", dependencies: ["PulseNetwork"]),
+        .testTarget(name: "PulseTests", dependencies: ["PulseNetwork"]),
         .testTarget(name: "PulseUITests", dependencies: ["PulseUI"])
     ]
 )
